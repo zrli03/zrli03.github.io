@@ -5,7 +5,7 @@ layout: single
 ---
 
 <p align="center">
-  <img src="{{ site.author.avatar }}" alt="avatar" width="150" style="border-radius: 50%;">
+  <img src="{{ site.author.avatar | relative_url }}" alt="avatar" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">{{ site.author.bio }}</p>
