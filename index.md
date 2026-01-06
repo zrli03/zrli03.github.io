@@ -38,7 +38,7 @@ My name is Zirui Li, I am currently a third-year master's student at Beijing Uni
 
 ## Contact Information
 
-<a href="https://github.com/lzr-qifei" target="_blank">
+<a href="https://github.com/zrli03" target="_blank">
   <img src="/assets/icons/github.svg" alt="GitHub" width="32" height="32">
 </a>
 
