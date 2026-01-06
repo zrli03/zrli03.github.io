@@ -6,16 +6,16 @@ remote_theme: mmistakes/minimal-mistakes
 # 开启侧边栏
 minimal_mistakes_skin: default
 
-author:
+author: 
   avatar: /assets/bio_photo/avatar.jpg
   email: lzrqna974@gmail.com
   bio: none
 
-defaults:
-  - scope:
+defaults: 
+  - scope: 
       path: ""
       type: "pages"
-    values:
+    values: 
       layout: single
       sidebar:
         nav: "sidebar"
