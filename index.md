@@ -42,6 +42,6 @@ My name is Zirui Li, I am currently a second-year master's student at Beijing Un
   <img src="/root/assets/icons/github.svg" alt="GitHub" width="32" height="32">
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="lzrqna974@gmail.com">
   <img src="/root/assets/icons/email.svg" alt="Email" width="32" height="32">
 </a>
