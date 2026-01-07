@@ -19,8 +19,7 @@ My name is Zirui Li, I am currently a third-year master's student at Beijing Uni
 ## Publications
 - ### Look along trajectory: Multi-view Pedestrian Tracking with Mahalanobis Distance-Based Association
   
-- ### Trajectory-Aware Attack: Explainable Adversarial Attack against Multiple Object Trackers
-- Paper available at : https://doi.org/10.1109/TMM.2026.3651102
+- ### [Trajectory-Aware Attack: Explainable Adversarial Attack against Multiple Object Trackers](https://doi.org/10.1109/TMM.2026.3651102)
 
 - ### See Through Views: View-Aware feature learning for Multi-View Detection and Tracking
   
